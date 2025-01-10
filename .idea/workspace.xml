@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e1/E1BooleanPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e1/Instrcutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e2/E2AgePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e2/Instrcutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e3/E3CreatingVariableAndPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e3/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e4/E4CreatingVariablesAndPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e4/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e1/E1AssignmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e1/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e2/E2ArithmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e2/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e3/E3ArithmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e3/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e4/E4ArithmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e4/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week1/d5/e1test/E1BooleanPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week1/d5/e2test/E2AgePrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week1/d5/e3test/E3CreatingVariableAndPrintingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week1/d5/e4test/E4CreatingVariablesAndPrintingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week1/d6/e1test/E1AssignmentOperatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week1/d6/e2test/E2ArithmeticOperationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week1/d6/e3test/E3ArithmeticOperationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week1/d6/e4test/E4ArithmeticOperationsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rRTqBjZ7GWSKgVY7YOfQKBoAWF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Desktop/SDETJavaBatch15/SDETB22HWs/src/test/java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="E1BooleanPrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB22HWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.d5.e1test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week1.d5.e1test" />
+      <option name="MAIN_CLASS_NAME" value="week1.d5.e1test.E1BooleanPrinterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.E1BooleanPrinterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="" />
+      <created>1736521078469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736521078469</updated>
+    </task>
+    <servers />
+  </component>
+</project>
