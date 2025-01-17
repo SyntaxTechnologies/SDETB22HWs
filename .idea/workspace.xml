@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="Week2 D3" />
+    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="Week2 D3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e1/E1BooleanPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e1/E1BooleanPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e2/E2AgePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e2/E2AgePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e3/E3CreatingVariableAndPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e3/E3CreatingVariableAndPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e4/E4CreatingVariablesAndPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d5/e4/E4CreatingVariablesAndPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e1/E1AssignmentOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e1/E1AssignmentOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e2/E2ArithmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e2/E2ArithmeticOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e3/E3ArithmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e3/E3ArithmeticOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e4/E4ArithmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e4/E4ArithmeticOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e1/E1StringConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e1/E1StringConcatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e2/E2StringConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e2/E2StringConcatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e3/E3CalculateCostArithmeticConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e3/E3CalculateCostArithmeticConcat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week1/d6/e4test/E4ArithmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week1/d6/e4test/E4ArithmeticOperationsTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Crackheadllc"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Crackheadllc&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="14faf47c-60ff-4585-b1ff-8e9ff6792f06" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SyntaxTechnologies/SDETB22HWs.git",
-    "accountId": "786c85e1-7715-4524-8be8-539864b79ccf"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SyntaxTechnologies/SDETB22HWs.git&quot;,
+    &quot;accountId&quot;: &quot;786c85e1-7715-4524-8be8-539864b79ccf&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -41,7 +55,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.E1BooleanPrinterTest.executor": "Run",
+    "Application.E1AssignmentOperator.executor": "Run",
+    "Application.E1BooleanPrinter.executor": "Run",
+    "Application.E1StringConcatenation.executor": "Run",
+    "Application.E2AgePrinter.executor": "Run",
+    "Application.E2ArithmeticOperations.executor": "Run",
+    "Application.E2StringConcatenation.executor": "Run",
+    "Application.E3ArithmeticOperations.executor": "Run",
+    "Application.E3CalculateCostArithmeticConcat.executor": "Run",
+    "Application.E3CreatingVariableAndPrinting.executor": "Run",
+    "Application.E4ArithmeticOperations.executor": "Run",
+    "Application.E4CreatingVariablesAndPrinting.executor": "Run",
+    "JUnit.E1AssignmentOperatorTest.executor": "Coverage",
+    "JUnit.E1BooleanPrinterTest.executor": "Coverage",
+    "JUnit.E1StringConcatenationTest.executor": "Coverage",
+    "JUnit.E2AgePrinterTest.executor": "Coverage",
+    "JUnit.E2ArithmeticOperationsTest.executor": "Coverage",
+    "JUnit.E2StringConcatenationTest.executor": "Coverage",
+    "JUnit.E3ArithmeticOperationsTest.executor": "Coverage",
+    "JUnit.E3CalculateCostArithmeticConcatTest.executor": "Coverage",
+    "JUnit.E3CreatingVariableAndPrintingTest.executor": "Coverage",
+    "JUnit.E4ArithmeticOperationsTest.executor": "Coverage",
+    "JUnit.E4CreatingVariablesAndPrintingTest.executor": "Coverage",
+    "JUnit.E4ShoppingCartCalculationArithmeticConcatTest.executor": "Coverage",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -54,28 +90,6 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="E1BooleanPrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SDETB22HWs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.d5.e1test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week1.d5.e1test" />
-      <option name="MAIN_CLASS_NAME" value="week1.d5.e1test.E1BooleanPrinterTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.E1BooleanPrinterTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -109,5 +123,43 @@
     <MESSAGE value="Week1" />
     <MESSAGE value="Week2 D3" />
     <option name="LAST_COMMIT_MESSAGE" value="Week2 D3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E1AssignmentOperatorTest.ic" NAME="E1AssignmentOperatorTest Coverage Results" MODIFIED="1737115489436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week1.d6.e1test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E2AgePrinterTest.ic" NAME="E2AgePrinterTest Coverage Results" MODIFIED="1737058597448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week1.d5.e2test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E1BooleanPrinterTest.ic" NAME="E1BooleanPrinterTest Coverage Results" MODIFIED="1737058470062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week1.d5.e1test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E3ArithmeticOperationsTest.ic" NAME="E3ArithmeticOperationsTest Coverage Results" MODIFIED="1737119954947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week1.d6.e3test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E4CreatingVariablesAndPrintingTest.ic" NAME="E4CreatingVariablesAndPrintingTest Coverage Results" MODIFIED="1737059408578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week1.d5.e4test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E2StringConcatenationTest.ic" NAME="E2StringConcatenationTest Coverage Results" MODIFIED="1737057524423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week2.d4.e2test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E3CalculateCostArithmeticConcat.ic" NAME="E3CalculateCostArithmeticConcat Coverage Results" MODIFIED="1737057482903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.week2.d4.e3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E2ArithmeticOperationsTest.ic" NAME="E2ArithmeticOperationsTest Coverage Results" MODIFIED="1737118420262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week1.d6.e2test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E4ShoppingCartCalculationArithmeticConcatTest.ic" NAME="E4ShoppingCartCalculationArithmeticConcatTest Coverage Results" MODIFIED="1737057727756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week2.d4.e4test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E4ArithmeticOperationsTest.ic" NAME="E4ArithmeticOperationsTest Coverage Results" MODIFIED="1737123150067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week1.d6.e4test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E1StringConcatenationTest.ic" NAME="E1StringConcatenationTest Coverage Results" MODIFIED="1737057582946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week2.d4.e1test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SDETB22HWs$E3CreatingVariableAndPrintingTest.ic" NAME="E3CreatingVariableAndPrintingTest Coverage Results" MODIFIED="1737059157615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>week1.d5.e3test.*</FILTER>
+    </SUITE>
   </component>
 </project>

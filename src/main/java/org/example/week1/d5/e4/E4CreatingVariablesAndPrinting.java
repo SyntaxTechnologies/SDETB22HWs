@@ -4,11 +4,16 @@ public class E4CreatingVariablesAndPrinting {
     public static void main(String[] args) {
 
         // The pattern should be:
-        // *
+        //*
+        System.out.println("*");
         // **
+        System.out.println("**");
         // ***
+        System.out.println("***");
         // ##
+        System.out.println("##");
         // #
+        System.out.println("#");
 
         // Note: Each System.out.println statement will create a new line
 
