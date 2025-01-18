@@ -11,7 +11,11 @@ public class E3IfStatements {
 
         // Print the user's information
 
-        // Check if the user is 18 or older
+        // Use a simple if-else condition to check if the user is 18 or older.
+
+        // If the user is 18 or older,then print You are an adult.
+
+        // If the user is younger than 18,then print You are not an adult.
 
     }
 }

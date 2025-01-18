@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="Week2 D4" />
+    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="Week2 D5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e6/E6NegativeModulusCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e6/E6NegativeModulusCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e1/E1IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e1/E1IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e2/E2IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e2/E2IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e3/E3IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e3/E3IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/E4IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/E4IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/Instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e5/E5IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e5/E5IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e1/E1ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e1/E1ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e2/E2ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e2/E2ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e4/E4ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e4/E4ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e5/E5ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e5/E5ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week2/d6/e2test/E4ElseIfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week2/d6/e2test/E2ElseIfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week2/d6/e4test/E4ElseIfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week2/d6/e4test/E4ElseIfTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,21 +45,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.E1BooleanPrinterTest.executor": "Run",
+    "JUnit.E2ElseIfTest.executor": "Run",
+    "JUnit.E2ElseIfTest.testOutput.executor": "Run",
+    "JUnit.E4ElseIfTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/apple/Desktop/SDETJavaBatch15/SDETB22HWs/src/test/java/week2"
+    "last_opened_file_path": "/Users/apple/Desktop/SDETJavaBatch15/SDETB22HWs/src/main/java/org/example/week2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java/week2" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/week2" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test/java/week2" />
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.E4ElseIfTest">
     <configuration name="E1BooleanPrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB22HWs" />
       <extension name="coverage">
@@ -60,8 +79,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E2ElseIfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB22HWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.d6.e2test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week2.d6.e2test" />
+      <option name="MAIN_CLASS_NAME" value="week2.d6.e2test.E2ElseIfTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2ElseIfTest.testOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB22HWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.d6.e2test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week2.d6.e2test" />
+      <option name="MAIN_CLASS_NAME" value="week2.d6.e2test.E2ElseIfTest" />
+      <option name="METHOD_NAME" value="testOutput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E4ElseIfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB22HWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.d6.e4test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week2.d6.e4test" />
+      <option name="MAIN_CLASS_NAME" value="week2.d6.e4test.E4ElseIfTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.E4ElseIfTest" />
+        <item itemvalue="JUnit.E2ElseIfTest.testOutput" />
+        <item itemvalue="JUnit.E2ElseIfTest" />
         <item itemvalue="JUnit.E1BooleanPrinterTest" />
       </list>
     </recent_temporary>
@@ -99,13 +167,33 @@
       <option name="project" value="LOCAL" />
       <updated>1737052624642</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Week2 D5">
+      <option name="closed" value="true" />
+      <created>1737130049872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737130049872</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week1" />
     <MESSAGE value="Week2 D3" />
     <MESSAGE value="Week2 D4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week2 D4" />
+    <MESSAGE value="Week2 D5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week2 D5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/week2/d6/e2test/E2ElseIfTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
