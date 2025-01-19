@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="Week2 D5">
+    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="Week2 D6 Fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e6/E6NegativeModulusCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e6/E6NegativeModulusCalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e1/E1IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e1/E1IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e2/E2IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e2/E2IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e3/E3IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e3/E3IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/E4IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/E4IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/Instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e5/E5IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e5/E5IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e1/E1ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e1/E1ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e2/E2ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e2/E2ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e4/E4ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e4/E4ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e5/E5ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e5/E5ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week2/d6/e2test/E4ElseIfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week2/d6/e2test/E2ElseIfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week2/d6/e4test/E4ElseIfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week2/d6/e4test/E4ElseIfTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +29,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.E1BooleanPrinterTest.executor": "Run",
-    "JUnit.E2ElseIfTest.executor": "Run",
-    "JUnit.E2ElseIfTest.testOutput.executor": "Run",
-    "JUnit.E4ElseIfTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/apple/Desktop/SDETJavaBatch15/SDETB22HWs/src/main/java/org/example/week2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.E1BooleanPrinterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E2ElseIfTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E2ElseIfTest.testOutput.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E4ElseIfTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Desktop/SDETJavaBatch15/SDETB22HWs/src/main/java/org/example/week2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/org/example/week2" />
@@ -175,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737130049872</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Week2 D6 Fixed">
+      <option name="closed" value="true" />
+      <created>1737232953081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737232953081</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,7 +178,8 @@
     <MESSAGE value="Week2 D3" />
     <MESSAGE value="Week2 D4" />
     <MESSAGE value="Week2 D5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week2 D5" />
+    <MESSAGE value="Week2 D6 Fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week2 D6 Fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
