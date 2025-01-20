@@ -2,6 +2,7 @@ package org.example.week1.d6.e4;
 
 public class E4ArithmeticOperations {
     public static void main(String[] args) {
+
         // Step 1: Declare the integer variables and assign values
         int width=5;
         int height=8;
