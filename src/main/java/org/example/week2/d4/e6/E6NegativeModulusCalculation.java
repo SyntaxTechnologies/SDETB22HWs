@@ -7,9 +7,7 @@ public class E6NegativeModulusCalculation {
         int divisor = 4; // example value
 
         // Calculate modulus
-        int modulusResult = dividend % divisor;
 
         // Print the result
-        System.out.println(dividend + " mod " + divisor + " = " + modulusResult);
     }
 }

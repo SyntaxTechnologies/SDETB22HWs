@@ -17,8 +17,8 @@ In this project, you will write a small program that assigns a string to a varia
 
 2. **Check if the String Equals "Java"**
    - Use a simple if-else condition to check if `language` equals `"Java"`.
-   - If `language` equals `"Java"`, print: `The programming language is Java.`
-   - If `language` does not equal `"Java"`, print: `The programming language is not Java.`
+   - If `language` equals to `"Java"`, print: `The programming language is Java.`
+   - If `language` does not equal to `"Java"`, print: `The programming language is not Java.`
 
 ## Example Output
 ```

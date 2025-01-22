@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="DONE WITH WK1 HWS">
+    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="Week2 D6 Fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e4/E4ArithmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/d6/e4/E4ArithmeticOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e1/E1StringConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e1/E1StringConcatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e2/E2StringConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e2/E2StringConcatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e3/E3CalculateCostArithmeticConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e3/E3CalculateCostArithmeticConcat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e4/E4ShoppingCartCalculationArithmeticConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e4/E4ShoppingCartCalculationArithmeticConcat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e5/E5PizzaPartyModulus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e5/E5PizzaPartyModulus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,21 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Crackheadllc&quot;
-  }
-}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="14faf47c-60ff-4585-b1ff-8e9ff6792f06" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SyntaxTechnologies/SDETB22HWs.git&quot;,
-    &quot;accountId&quot;: &quot;786c85e1-7715-4524-8be8-539864b79ccf&quot;
-  }
-}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,44 +31,95 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.E1AssignmentOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E1BooleanPrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E1StringConcatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E2AgePrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E2ArithmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E2StringConcatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E3ArithmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E3CalculateCostArithmeticConcat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E3CreatingVariableAndPrinting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E4ArithmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E4CreatingVariablesAndPrinting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E4ShoppingCartCalculationArithmeticConcat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E5PizzaPartyModulus.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E1AssignmentOperatorTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E1BooleanPrinterTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E1StringConcatenationTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E2AgePrinterTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E2ArithmeticOperationsTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E2StringConcatenationTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E3ArithmeticOperationsTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E3CalculateCostArithmeticConcatTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E3CreatingVariableAndPrintingTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E4ArithmeticOperationsTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E4CreatingVariablesAndPrintingTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.E4ShoppingCartCalculationArithmeticConcatTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E5PizzaPartyModulusTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E1BooleanPrinterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E2ElseIfTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E2ElseIfTest.testOutput.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E4ElseIfTest.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Desktop/SDETJavaBatch15/SDETB22HWs/src/test/java&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/apple/Desktop/SDETJavaBatch15/SDETB22HWs/src/main/java/org/example/week2&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/week2" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test/java/week2" />
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.E4ElseIfTest">
+    <configuration name="E1BooleanPrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB22HWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.d5.e1test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week1.d5.e1test" />
+      <option name="MAIN_CLASS_NAME" value="week1.d5.e1test.E1BooleanPrinterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2ElseIfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB22HWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.d6.e2test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week2.d6.e2test" />
+      <option name="MAIN_CLASS_NAME" value="week2.d6.e2test.E2ElseIfTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2ElseIfTest.testOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB22HWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.d6.e2test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week2.d6.e2test" />
+      <option name="MAIN_CLASS_NAME" value="week2.d6.e2test.E2ElseIfTest" />
+      <option name="METHOD_NAME" value="testOutput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E4ElseIfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB22HWs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.d6.e4test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week2.d6.e4test" />
+      <option name="MAIN_CLASS_NAME" value="week2.d6.e4test.E4ElseIfTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.E4ElseIfTest" />
+        <item itemvalue="JUnit.E2ElseIfTest.testOutput" />
+        <item itemvalue="JUnit.E2ElseIfTest" />
+        <item itemvalue="JUnit.E1BooleanPrinterTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -113,70 +146,50 @@
       <option name="project" value="LOCAL" />
       <updated>1736969566080</updated>
     </task>
-    <task id="LOCAL-00003" summary="DONE WITH WK1 HWS">
+    <task id="LOCAL-00003" summary="Week2 D4">
       <option name="closed" value="true" />
-      <created>1737146085836</created>
+      <created>1737052624642</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1737146085836</updated>
+      <updated>1737052624642</updated>
     </task>
-    <task id="LOCAL-00004" summary="DONE WITH WK1 HWS">
+    <task id="LOCAL-00004" summary="Week2 D5">
       <option name="closed" value="true" />
-      <created>1737146104122</created>
+      <created>1737130049872</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1737146104122</updated>
+      <updated>1737130049872</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Week2 D6 Fixed">
+      <option name="closed" value="true" />
+      <created>1737232953081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737232953081</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week1" />
     <MESSAGE value="Week2 D3" />
-    <MESSAGE value="DONE WITH WK1 HWS" />
-    <option name="LAST_COMMIT_MESSAGE" value="DONE WITH WK1 HWS" />
+    <MESSAGE value="Week2 D4" />
+    <MESSAGE value="Week2 D5" />
+    <MESSAGE value="Week2 D6 Fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week2 D6 Fixed" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E1AssignmentOperatorTest.ic" NAME="E1AssignmentOperatorTest Coverage Results" MODIFIED="1737115489436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week1.d6.e1test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E2AgePrinterTest.ic" NAME="E2AgePrinterTest Coverage Results" MODIFIED="1737058597448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week1.d5.e2test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E1BooleanPrinterTest.ic" NAME="E1BooleanPrinterTest Coverage Results" MODIFIED="1737058470062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week1.d5.e1test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E4CreatingVariablesAndPrintingTest.ic" NAME="E4CreatingVariablesAndPrintingTest Coverage Results" MODIFIED="1737059408578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week1.d5.e4test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E3ArithmeticOperationsTest.ic" NAME="E3ArithmeticOperationsTest Coverage Results" MODIFIED="1737119954947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week1.d6.e3test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E2StringConcatenationTest.ic" NAME="E2StringConcatenationTest Coverage Results" MODIFIED="1737057524423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week2.d4.e2test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E3CalculateCostArithmeticConcat.ic" NAME="E3CalculateCostArithmeticConcat Coverage Results" MODIFIED="1737057482903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>org.example.week2.d4.e3.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E2ArithmeticOperationsTest.ic" NAME="E2ArithmeticOperationsTest Coverage Results" MODIFIED="1737118420262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week1.d6.e2test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E4ArithmeticOperationsTest.ic" NAME="E4ArithmeticOperationsTest Coverage Results" MODIFIED="1737123150067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week1.d6.e4test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E4ShoppingCartCalculationArithmeticConcatTest.ic" NAME="E4ShoppingCartCalculationArithmeticConcatTest Coverage Results" MODIFIED="1737235645997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week2.d4.e4test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E1StringConcatenationTest.ic" NAME="E1StringConcatenationTest Coverage Results" MODIFIED="1737057582946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week2.d4.e1test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E4ShoppingCartCalculationArithmeticConcat.ic" NAME="E4ShoppingCartCalculationArithmeticConcat Coverage Results" MODIFIED="1737235627747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>org.example.week2.d4.e4.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/SDETB22HWs$E3CreatingVariableAndPrintingTest.ic" NAME="E3CreatingVariableAndPrintingTest Coverage Results" MODIFIED="1737059157615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>week1.d5.e3test.*</FILTER>
-    </SUITE>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/week2/d6/e2test/E2ElseIfTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
