@@ -8,11 +8,6 @@ public class E5PizzaPartyModulus {
 
 
         // Calculate slices per person
-        int div=totalSlices/4;
-        System.out.println(totalSlices/4;);
+        int slicesPerPerson;
+        System.out.println("slicesPerPerson" + "div"+ (totalSlices+friends));
 
-
-        // Print the results
-
-    }
-}
