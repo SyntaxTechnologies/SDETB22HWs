@@ -9,13 +9,13 @@ public class E5PizzaPartyModulus {
 
         // Calculate slices per person
         int slicesPerPerson = totalSlices / friends;
-        int leftoverSlices = totalSlices % friends;
 
 
         //Print the results
 
-        System.out.println("Each person gets " +slicesPerPerson+ " slices. ");
-        System.out.println("There are " +leftoverSlices+ " slices left over.");
+        System.out.println("Each person gets"+" "+totalSlices/friends+" "+"slices.");
+        int leftoverSlices= totalSlices%friends;
+        System.out.println("There are"+ " "+ leftoverSlices+" "+ "slices left over.");
 
     }
 }
