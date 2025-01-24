@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="DONE with WEEK 2 Day 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e1/E1ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e1/E1ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e2/E2ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e2/E2ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e3/E3ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e3/E3ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e4/E4ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e4/E4ElseIf.java" afterDir="false" />
-    </list>
+    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="DONE with WK 2 D6 E1-E4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +55,7 @@
     "Application.E3IfStatements.executor": "Run",
     "Application.E4ArithmeticOperations.executor": "Run",
     "Application.E4CreatingVariablesAndPrinting.executor": "Run",
+    "Application.E4ElseIf.executor": "Run",
     "Application.E4IfStatements.executor": "Run",
     "Application.E4ShoppingCartCalculationArithmeticConcat.executor": "Run",
     "Application.E5IfStatements.executor": "Run",
@@ -176,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737624990696</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="DONE with WK 2 D6 E1-E4">
+      <option name="closed" value="true" />
+      <created>1737744461337</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737744461337</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +199,8 @@
     <MESSAGE value="DONE WITH WK1 HWS" />
     <MESSAGE value="DONE" />
     <MESSAGE value="DONE with WEEK 2 Day 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="DONE with WEEK 2 Day 5" />
+    <MESSAGE value="DONE with WK 2 D6 E1-E4" />
+    <option name="LAST_COMMIT_MESSAGE" value="DONE with WK 2 D6 E1-E4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SDETB22HWs$E1AssignmentOperatorTest.ic" NAME="E1AssignmentOperatorTest Coverage Results" MODIFIED="1737115489436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
