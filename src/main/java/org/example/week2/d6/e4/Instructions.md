@@ -12,8 +12,8 @@ In this project, you will write a small program that takes an operator and two n
 **For you to do:**
 
 1. **Declare Variables**
-    - Declare a variable `operator` and assign a value to it (e.g., `"+"`, `"-"`, `"*"`, `"/"`).
-    - Declare two variables `num1` and `num2` and assign values to them.
+    - Declare a variable `operator` and assign a value to it (`"*"`).
+    - Declare two double variables `num1` and `num2` and assign 5 and 10 as values to them.
 
 2. **Perform Operation**
     - Use `if-else if-else` statements to check the value of `operator` and perform the corresponding arithmetic operation:
@@ -22,12 +22,10 @@ In this project, you will write a small program that takes an operator and two n
         - If `operator` is `"*"`, print `The product is: result`.
         - If `operator` is `"/"`, print `The quotient is: result`.
         - If `operator` is any other value, print `Invalid operator`.
+      
 
 ## Expected Output
 ```
-Enter operator (+, -, *, /):
-Enter first number:
-Enter second number:
 The product is: 50.0
 ```
 

@@ -1,8 +1,6 @@
 package week2.d6.e4test;
 
 import org.example.week2.d6.e4.E4ElseIf;
-
-
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -16,34 +14,42 @@ public class E4ElseIfTest {
 
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
     private final PrintStream originalOut = System.out;
+    private final java.io.InputStream originalIn = System.in;
 
     @BeforeEach
     void setUpStreams() {
+        // Redirect System.out to capture outputs
         System.setOut(new PrintStream(outContent));
     }
 
     @AfterEach
     void restoreStreams() {
+        // Restore original System.out and System.in
         System.setOut(originalOut);
+        System.setIn(originalIn);
     }
+
+
+
 
     @Test
-    void testCalculatorOutput() {
-        // Call the main method (no args) assuming it prints all prompts and result
+    void testAddition() {
+        // Run the SimpleCalculator program
         E4ElseIf.main(new String[]{});
 
-        // Build the expected output, including line separators
-        String expectedOutput =
-                "Enter operator (+, -, *, /):" + System.lineSeparator() +
-                        "Enter first number:" + System.lineSeparator() +
-                        "Enter second number:" + System.lineSeparator() +
-                        "The product is: 50.0" + System.lineSeparator();
+        // Define expected output
+        String expectedOutput = "The product is: 50.0" + System.lineSeparator();
 
-        // Compare captured output with the expected string
-        assertEquals(
-                expectedOutput,
-                outContent.toString(),
-                "The output does not match the expected Simple Calculator output."
-        );
+        // Assert the output
+        assertEquals(expectedOutput, outContent.toString(),
+                "The addition operation did not produce the expected output.");
     }
+
+
+
+
+
+
+
+
 }

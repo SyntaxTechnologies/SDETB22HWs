@@ -3,12 +3,12 @@ package org.example.week2.d6.e4;
 public class E4ElseIf {
     public static void main(String[] args) {
 
-        String operator="*";
 
-        double num1=5;
-        double num2=10;
+        // Create two variables num1 and num2
 
-        // Perform operation using else-if conditions
+        // create a variable to hold the operator
+
+        // Perform operation using if-else if-else conditions
 
         // Statements to check the value of operator and perform the corresponding arithmetic operation:
 
@@ -21,5 +21,9 @@ public class E4ElseIf {
         // If operator is "/", print The quotient is: result.
 
         // If operator is any other value, print Invalid operator.
+
+
+
+
     }
 }
