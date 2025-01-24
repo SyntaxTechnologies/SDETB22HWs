@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="DONE">
+    <list default="true" id="54c647bf-b7c4-46cb-8693-c7212b94d5f0" name="Changes" comment="DONE with WEEK 2 Day 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e5/E5PizzaPartyModulus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e5/E5PizzaPartyModulus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e6/E6NegativeModulusCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e6/E6NegativeModulusCalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e7/E7ShoppingCartRoundingTypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d4/e7/E7ShoppingCartRoundingTypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e1/E1IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e1/E1IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e2/E2IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e2/E2IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e3/E3IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e3/E3IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/E4IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e4/E4IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e5/E5IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d5/e5/E5IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e1/E1ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e1/E1ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e2/E2ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e2/E2ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e3/E3ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e3/E3ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e4/E4ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/d6/e4/E4ElseIf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +46,18 @@
   "keyToString": {
     "Application.E1AssignmentOperator.executor": "Run",
     "Application.E1BooleanPrinter.executor": "Run",
+    "Application.E1ElseIf.executor": "Run",
     "Application.E1IfStatements.executor": "Run",
     "Application.E1StringConcatenation.executor": "Run",
     "Application.E2AgePrinter.executor": "Run",
     "Application.E2ArithmeticOperations.executor": "Run",
+    "Application.E2ElseIf.executor": "Run",
     "Application.E2IfStatements.executor": "Run",
     "Application.E2StringConcatenation.executor": "Run",
     "Application.E3ArithmeticOperations.executor": "Run",
     "Application.E3CalculateCostArithmeticConcat.executor": "Run",
     "Application.E3CreatingVariableAndPrinting.executor": "Run",
+    "Application.E3ElseIf.executor": "Run",
     "Application.E3IfStatements.executor": "Run",
     "Application.E4ArithmeticOperations.executor": "Run",
     "Application.E4CreatingVariablesAndPrinting.executor": "Run",
@@ -70,20 +69,24 @@
     "Application.E7ShoppingCartRoundingTypeCasting.executor": "Run",
     "JUnit.E1AssignmentOperatorTest.executor": "Coverage",
     "JUnit.E1BooleanPrinterTest.executor": "Coverage",
+    "JUnit.E1ElseIfTest.executor": "Run",
     "JUnit.E1IfStatementsTest.executor": "Run",
     "JUnit.E1StringConcatenationTest.executor": "Coverage",
     "JUnit.E2AgePrinterTest.executor": "Coverage",
     "JUnit.E2ArithmeticOperationsTest.executor": "Coverage",
+    "JUnit.E2ElseIfTest.executor": "Run",
     "JUnit.E2IfStatementsTest.executor": "Run",
     "JUnit.E2StringConcatenationTest.executor": "Coverage",
     "JUnit.E3ArithmeticOperationsTest.executor": "Coverage",
     "JUnit.E3CalculateCostArithmeticConcatTest.executor": "Run",
     "JUnit.E3CreatingVariableAndPrintingTest.executor": "Coverage",
+    "JUnit.E3ElseIfTest.executor": "Run",
     "JUnit.E3IfStatementsTest.executor": "Run",
     "JUnit.E4ArithmeticOperationsTest.executor": "Coverage",
     "JUnit.E4CreatingVariablesAndPrintingTest.executor": "Coverage",
     "JUnit.E4IfStatementsTest.executor": "Run",
     "JUnit.E4ShoppingCartCalculationArithmeticConcatTest.executor": "Run",
+    "JUnit.E5IfStatementsTest.executor": "Run",
     "JUnit.E5PizzaPartyModulusTest.executor": "Coverage",
     "JUnit.E6NegativeModulusCalculationTest.executor": "Run",
     "JUnit.E7ShoppingCartRoundingTypeCastingTest.executor": "Run",
@@ -157,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737525724209</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DONE with WEEK 2 Day 5">
+      <option name="closed" value="true" />
+      <created>1737624986241</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737624986241</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DONE with WEEK 2 Day 5">
+      <option name="closed" value="true" />
+      <created>1737624990696</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737624990696</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +195,8 @@
     <MESSAGE value="Week2 D3" />
     <MESSAGE value="DONE WITH WK1 HWS" />
     <MESSAGE value="DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="DONE" />
+    <MESSAGE value="DONE with WEEK 2 Day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="DONE with WEEK 2 Day 5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SDETB22HWs$E1AssignmentOperatorTest.ic" NAME="E1AssignmentOperatorTest Coverage Results" MODIFIED="1737115489436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
